@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#0F111A</color>
+    <color name="colorAccent">#0F111A</color>
+    <color name="itemBackgound">#d3d9ec</color>
+    <color name="storyImgBackgound">#A1A5B4</color>
+
+
+</resources>

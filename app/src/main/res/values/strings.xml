@@ -1,0 +1,16 @@
+<resources>
+
+    //About App
+
+
+    <string name="app_name">Anime Stories</string>
+
+
+    //ErorrNetwork
+    <string name="retryBtn">Retry</string>
+    <string name="errorMessage1">Oops..</string>
+    <string name="errorMessage2">Network failure, Please Try Again</string>
+    <string name="url">https://api.myjson.com/bins/nog36</string>
+
+
+</resources>
